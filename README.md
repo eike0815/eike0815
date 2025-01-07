@@ -21,7 +21,7 @@ I enjoy solving problems and learning along the way.
 
 ### 💡 Fun Facts About Me:
 
-- 🎞️  I spend a decade in the filmindustrie working a lot in interesting locations.
+- 🎞️  I spend a lot´s of time working in the filmindustry.
   
 
 ### 📫 Let’s Connect:
