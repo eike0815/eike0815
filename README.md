@@ -2,7 +2,7 @@
 
 
 **About Me**  
-I’m becoming a developer who loves coding in Python and  exploring new technologies.
+I’m a backend-developer who loves coding in Python and  exploring new technologies.
 I enjoy solving problems and learning along the way.
 
 ---
