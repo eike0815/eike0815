@@ -8,7 +8,7 @@ I enjoy solving problems and learning along the way.
 ---
 
 ### 📚 I’m Currently at:
-- **Masterschool**
+- **Masterschool,**getting in shape here
 
 ---
 
