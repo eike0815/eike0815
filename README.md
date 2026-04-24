@@ -7,11 +7,23 @@ I enjoy solving problems and learning along the way.
 
 ---
 
-### 📚 I’m Currently at:
+### 📖 I’m Currently at:
 
 - now  **Fernuniversitaet Hagen** doing **Mathematisch technische Softwareentwicklung** at the side
-- post **Masterschool**, getting in shape
+
+---
     
+### 📕 earlier I did:
+
+- **getting in shape:**
+  - **Masterschool:** Software and AI
+  - **Datascientest, Sorbonne Pantheon:** DevOps & Datascience
+
+---
+
+###  📚 before that:
+- **Freie Universitaet Berlin:** Mathematics
+
 ---
 
 ### 🔭 i like wraping my head around:
