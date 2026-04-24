@@ -9,11 +9,11 @@ I enjoy solving problems and learning along the way.
 
 ### 📖 I’m Currently at:
 
-- now  **Fernuniversitaet Hagen** doing **Mathematisch technische Softwareentwicklung** at the side
+- **Fernuniversitaet Hagen** doing **Mathematisch technische Softwareentwicklung** on the side
 
 ---
     
-### 📕 earlier I did:
+###  📚 earlier I did:
 
 - **getting in shape:**
   - **Masterschool:** Software and AI
@@ -21,7 +21,7 @@ I enjoy solving problems and learning along the way.
 
 ---
 
-###  📚 before that:
+###  📕 before that:
 - **Freie Universitaet Berlin:** Mathematics
 
 ---
