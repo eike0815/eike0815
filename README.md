@@ -8,8 +8,10 @@ I enjoy solving problems and learning along the way.
 ---
 
 ### 📚 I’m Currently at:
-- **Masterschool,** getting in shape here
 
+- now  **Fernuniversitaet Hagen** doing **Mathematisch technische Softwareentwicklung** at the side
+- post **Masterschool**, getting in shape
+    
 ---
 
 ### 🔭 i like wraping my head around:
